@@ -15,7 +15,7 @@
 <b>Towards Open-Vocabulary Video Instance Segmentation</b><br>
 <i>ICCV (Oral), 2023</i>
 <br>
-Haochen Wang\*, <b>Cilin Yan</b>\*, Shuai Wang, Xiaolong Jiang, XU Tang, Yao Hu, Weidi Xie, Efstratios Gavves
+Haochen Wang\*, <b>Cilin Yan</b>\*, Shuai Wang, Xiaolong Jiang, Xu Tang, Yao Hu, Weidi Xie, Efstratios Gavves
 <br>
 [<a href="https://arxiv.org/abs/2304.01715">Arxiv</a>] [<a href="https://github.com/haochenheheda/LVVIS">Github</a>]<br>
 </div>
