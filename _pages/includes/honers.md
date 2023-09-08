@@ -1,15 +1,11 @@
 # 🎖 Honors and Awards
+- *2023* 1st Place Solution for the 5th LSVOS Challenge
+- *2022* Freshmen Scholarship, Beihang University
 - *2022* "Outstanding M.S. Dissertation Award" of Beihang, Beihang University (<b>Top 0.5%</b>)
-- *2022* "Outstanding Graduates" of Beijing, Beijing (<b>Top 1%</b>)
-- *2021* Second Prize of "AVIC Scholarship", Beihang University (<b>Top 2%</b>)
-- *2020* First Prize "Academic Scholarship for Postgraduates", Beihang University (<b>Top 5%</b>)
-- *2019* First Prize "Academic Scholarship for Postgraduates", Beihang University (<b>Top 5%</b>)
-- *2019* Top 10 of "Semi-supervised Video Object Segmentation Algorithm Competition", Alibaba Tianchi (<b>Top 10/947</b>)
-- *2019* "Outstanding B.S. Dissertation Award" of Beihang and Beijing, Beijing, (<b>Top 0.5%</b>)
-- *2019* "Outstanding Graduates" of Beihang, Beihang University (<b>Top 5%</b>) 
-- *2019* "Excellent Student" of Beihang, Beihang University (<b>Top 1%</b>)
-- *2018* Second Prize of the "9th Mechanical Innovation Design Competition", Beijing
-- *2018* Second Prize of the "28th Fengru Cup Scientific and Technological Competition", Beihang University
-- *2018* First Prize of the "Mathematics Modeling Competition", Beihang University (<b>Top 3%</b>)
-- *2018* First Prize of "Lee Kum Kee Astronautics Scholarship", Beihang University (<b>Top 0.5%</b>)
-- *2018* Special Scholarship of "Outstanding Academic Performance", Beihang University (<b>Top 2%</b>)
+- *2022* "Outstanding Graduates" of JiLin University, JiLin University (<b>Top 0.5%</b>) 
+- *2021* National Scholarship, Ministry of Education, PRC. (<b>Top 0.2%</b>)
+- *2020* National Scholarship, Ministry of Education, PRC. (<b>Top 0.2%</b>)
+- *2020* Finalist of "Mathematical Contest In Modelling", National Science Foundation, etc. (<b>Top 2%</b>)
+- *2020* First Prize in "12th Chinese Mathematics Competitions", Chinese Mathematical Society.
+- *2019* National Scholarship, Ministry of Education, PRC. (<b>Top 0.2%</b>)
+- *2019* First place in "11th Chinese Mathematics Competitions (Jilin Regional)", Chinese Mathematical Society. (<b>Top 1</b>)
