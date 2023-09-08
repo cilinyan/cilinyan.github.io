@@ -17,13 +17,13 @@ redirect_from:
 
 {% include_relative includes/honers.md %}
 
-{% include_relative includes/others.md %}
+{% include_relative includes/educations.md %}
 <span class='anchor' id='end-page'></span>
 
 
 <br>
 
-<center>
+<!-- <center>
 	<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=m&d=98ZgCYz_BPXzld4HL9fFapBJ5kjTLP5IRdxhqmBdddg&co=2d78ad&ct=ffffff&cmo=3acc3a&cmn=ff5353'></script>
-</center>
+</center> -->
 
