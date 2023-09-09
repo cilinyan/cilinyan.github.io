@@ -1,7 +1,7 @@
 # 🎖 Honors and Awards
 - *2023* 1st place solution for the 5th LSVOS challenge, ICCV 2023 Workshop. (<b>Top 1</b>)
 - *2022* Freshmen Scholarship, Beihang University.
-- *2022* "Outstanding Graduates" of JiLin University, JiLin University. (<b>Top 0.5%</b>) 
+- *2022* "Outstanding Graduates" of JiLin University, JiLin University. (<b>Top 5%</b>) 
 - *2021* National Scholarship, Ministry of Education, PRC. (<b>Top 0.2%</b>)
 - *2020* National Scholarship, Ministry of Education, PRC. (<b>Top 0.2%</b>)
 - *2020* Finalist of "Mathematical Contest In Modelling", National Science Foundation, etc. (<b>Top 2%</b>)
