@@ -16,9 +16,9 @@ AcadHomepage
     <br>
 </p>
 
-Some examples:
+Some examples: 
 
-- [Personal Homepage of the author](https://KyanChen.github.io/)
+- [Personal Homepage of the author](https://cilinyan.github.io/)
 
 ## Key Features
 
