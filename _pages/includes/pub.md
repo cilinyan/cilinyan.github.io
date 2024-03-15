@@ -1,6 +1,18 @@
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/ovvis.png"><img src='image/ovvis.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box-text' markdown="1">
+<b>OV-VIS: Open-Vocabulary Video Instance Segmentation</b><br>
+<i>IJCV, 2024</i>
+<br>
+Haochen Wang, <b>Cilin Yan</b>, Keyan Chen, Xiaolong Jiang, Xu Tang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
+<br>
+[<a href="https://github.com/haochenheheda/LVVIS">Github</a>]
+<br>
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/PiClick.png"><img src='image/PiClick.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>PiClick: Picking the desired mask in click-based interactive segmentation</b><br>
