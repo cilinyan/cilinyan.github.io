@@ -21,6 +21,8 @@ redirect_from:
 
 {% include_relative includes/internships.md %}
 
+{% include_relative includes/AcademicService.md %}
+
 <span class='anchor' id='end-page'></span>
 
 
