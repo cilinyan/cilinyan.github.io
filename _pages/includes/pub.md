@@ -16,7 +16,7 @@ Haochen Wang, <b>Cilin Yan</b>, Keyan Chen, Xiaolong Jiang, Xu Tang, Yao Hu, Guo
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/PiClick.png"><img src='image/PiClick.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>PiClick: Picking the desired mask in click-based interactive segmentation</b><br>
-<i>Arxiv, 2023</i><br>
+<i>Neurocomputing, 2024</i><br>
 <b>Cilin Yan</b>\*, Haochen Wang\*, Jie Liu, Xiaolong Jiang, Yao Hu, Xu Tang, Guoliang Kang, Efstratios Gavves<br>
 [<a href="https://arxiv.org/abs/2304.11609">Arxiv</a>] [<a href="https://github.com/cilinyan/PiClick">Github</a>]<br>
 </div>
