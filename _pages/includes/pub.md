@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/xxxxx.png"><img src='image/xxxxx.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/LISA.png"><img src='image/xxxxx.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>VISA: Reasoning Video Object Segmentation via Large Language Model</b><br>
 <i>ECCV, 2024</i>
