@@ -8,7 +8,7 @@
 <br>
 <b>Cilin Yan</b>\*, Haochen Wang\*, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
 <br>
-[<a href="https://github.com/cilinyan/VISA">VISA</a>]
+[<a href="https://github.com/cilinyan/VISA">Github</a>]
 [<a href="https://github.com/cilinyan/ReVOS-api">RVOS Dataset</a>]
 <br>
 </div>
