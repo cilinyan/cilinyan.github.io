@@ -1,7 +1,7 @@
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/VISA.png"><img src='image/xxxxx.png' alt="sym" width="100%"></a></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><a href="image/VISA.png"><img src='image/VISA.png' alt="sym" width="100%"></a></div></div>
 <div class='paper-box-text' markdown="1">
 <b>VISA: Reasoning Video Object Segmentation via Large Language Model</b><br>
 <i>ECCV, 2024</i>
@@ -9,7 +9,7 @@
 <b>Cilin Yan</b>\*, Haochen Wang\*, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
 <br>
 [<a href="https://github.com/cilinyan/VISA">VISA</a>]
-[<a href="https://github.com/cilinyan/ReVOS-api">Dataset</a>]
+[<a href="https://github.com/cilinyan/ReVOS-api">RVOS Dataset</a>]
 <br>
 </div>
 </div>
