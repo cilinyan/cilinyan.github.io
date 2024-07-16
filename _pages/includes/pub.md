@@ -8,6 +8,7 @@
 <br>
 <b>Cilin Yan</b>\*, Haochen Wang\*, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
 <br>
+[<a href="https://github.com/cilinyan/VISA">VISA</a>]
 [<a href="https://github.com/cilinyan/ReVOS-api">Dataset</a>]
 <br>
 </div>
@@ -20,6 +21,7 @@
 <br>
 Haochen Wang, <b>Cilin Yan</b>, Keyan Chen, Xiaolong Jiang, Xu Tang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
 <br>
+[<a href="https://link.springer.com/article/10.1007/s11263-024-02076-w">IJCV</a>]
 [<a href="https://github.com/haochenheheda/LVVIS">Github</a>]
 <br>
 </div>
