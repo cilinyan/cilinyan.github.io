@@ -6,7 +6,7 @@
 <b>Efficient and Accurate Prompt Optimization: the Benefit of Memory in Exemplar-Guided Reflection</b><br>
 <i>ACL Main, 2025</i>
 <br>
-<b>Cilin Yan</b>\*,  Jingyun Wang\*, Lin Zhang, Ruihui Zhao\*, Xiaopu Wu, Kai Xiong, Qingsong Liu, Guoliang Kang, Yangyang Kang
+<b>Cilin Yan</b>\*,  Jingyun Wang\*, Lin Zhang\*, Ruihui Zhao, Xiaopu Wu, Kai Xiong, Qingsong Liu, Guoliang Kang, Yangyang Kang
 <br>
 [<a href="https://arxiv.org/abs/2411.07446">Arxiv</a>]
 <br>
