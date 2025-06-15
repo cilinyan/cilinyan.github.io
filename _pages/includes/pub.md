@@ -21,6 +21,7 @@
 <b>Cilin Yan</b>\*, Haochen Wang\*, Shilin Yan, Xiaolong Jiang, Yao Hu, Guoliang Kang, Weidi Xie, Efstratios Gavves
 <br>
 [<a href="https://arxiv.org/abs/2407.11325">Arxiv</a>]
+[<a href="https://link.springer.com/chapter/10.1007/978-3-031-72633-0_6">ECCV Paper</a>]
 [<a href="https://github.com/cilinyan/VISA">Github</a>]
 [<a href="https://github.com/cilinyan/ReVOS-api">RVOS Dataset</a>]
 <br>
