@@ -1,4 +1,5 @@
 # 🔥 News
+- *2025.10*: A paper is accepted by **<font color="red">TCSVT</font>** in 2025.
 - *2025.07*: A paper is accepted by **<font color="red">RecSys</font>** in 2025.
 - *2025.06*: A paper is accepted by **<font color="red">ICCV</font>** in 2025.
 - *2025.05*: A paper is accepted by **<font color="red">ACL</font>** (**Main**) in 2025.
